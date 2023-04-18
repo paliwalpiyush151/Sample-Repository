@@ -1,0 +1,1 @@
+One this is from master: This is first version of text document for learning git.  
